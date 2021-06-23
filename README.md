@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was done following the Full React Tutorial by The Net Ninja
+This project was done to learn the basics of React including components, hooks, props following the Full React Tutorial by The Net Ninja
 
 ## Available Scripts
 
